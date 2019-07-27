@@ -10,3 +10,7 @@ To run the application use:</br>
 
 To run server api, please run:<br/>
 <b>npm run mock:api</b>
+
+
+To run tests, please run:<br/>
+<b>npm test</b>
