@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Markus",
+      "_id": 1
+    },
+    {
+      "name": "Peter",
+      "_id": 2
+    },
+    {
+      "name": "John",
+      "_id": 3
+    }
+  ],
+  "hobbies": [
+    {
+      "passionLevel": "4",
+      "hobbyTitle": "Coding",
+      "since": "2016",
+      "userId": 3,
+      "_id": 1
+    },
+    {
+      "passionLevel": "1",
+      "hobbyTitle": "Going to concert",
+      "since": "2015",
+      "userId": 3,
+      "_id": 2
+    },
+    {
+      "passionLevel": "3",
+      "hobbyTitle": "Listening to music",
+      "since": "2007",
+      "userId": 3,
+      "_id": 3
+    },
+    {
+      "passionLevel": "2",
+      "hobbyTitle": "Playing Football",
+      "since": "2014",
+      "userId": 3,
+      "_id": 4
+    }
+  ]
+}

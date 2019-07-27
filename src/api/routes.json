@@ -1,0 +1,4 @@
+{
+	"/hobbies/:userId": "/hobbies?userId=:userId",
+	"/hobbies/delete/:id": "/hobbies/:id"
+}
